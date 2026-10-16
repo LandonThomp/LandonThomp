@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 36" width="178" height="36" role="img" aria-label="Unreal Engine 5">
+  <style>
+    .bg { fill: #f2faf5; stroke: #2c7a4f; }
+    .ic { stroke: #1f6f43; }
+    .tx { fill: #173a28; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #10241a; stroke: #5cc98a; }
+      .ic { stroke: #7fe0a6; }
+      .tx { fill: #def6e8; }
+    }
+  </style>
+  <rect class="bg" x="1" y="1" width="176" height="34" rx="17" stroke-width="1.5"/>
+  <g class="ic" transform="translate(12 6)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9z"/><path d="M12 12l8-4.5M12 12v9M12 12L4 7.5"/></g>
+  <text class="tx" x="44" y="23" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Unreal Engine 5</text>
+</svg>

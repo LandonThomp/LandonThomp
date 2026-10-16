@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 36" width="108" height="36" role="img" aria-label="Python">
+  <style>
+    .bg { fill: #f2faf5; stroke: #2c7a4f; }
+    .ic { stroke: #1f6f43; }
+    .tx { fill: #173a28; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #10241a; stroke: #5cc98a; }
+      .ic { stroke: #7fe0a6; }
+      .tx { fill: #def6e8; }
+    }
+  </style>
+  <rect class="bg" x="1" y="1" width="106" height="34" rx="17" stroke-width="1.5"/>
+  <g class="ic" transform="translate(12 6)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8l4 4-4 4M10 8l4 4-4 4M16 8l4 4-4 4"/></g>
+  <text class="tx" x="44" y="23" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Python</text>
+</svg>

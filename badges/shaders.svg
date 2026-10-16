@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 36" width="154" height="36" role="img" aria-label="HLSL Shaders">
+  <style>
+    .bg { fill: #f2faf5; stroke: #2c7a4f; }
+    .ic { stroke: #1f6f43; }
+    .tx { fill: #173a28; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #10241a; stroke: #5cc98a; }
+      .ic { stroke: #7fe0a6; }
+      .tx { fill: #def6e8; }
+    }
+  </style>
+  <rect class="bg" x="1" y="1" width="152" height="34" rx="17" stroke-width="1.5"/>
+  <g class="ic" transform="translate(12 6)" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M7.5 9.5A5 5 0 0 1 11 6.8"/><path d="M3.5 12c3 2.5 14 2.5 17 0" opacity="0.6"/></g>
+  <text class="tx" x="44" y="23" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">HLSL Shaders</text>
+</svg>
